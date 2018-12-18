@@ -8,6 +8,6 @@ object Main {
     val sparkVersion = spark.version
     println(s"Spark Version: $sparkVersion")
 
-    exercises.exercise1.exec1()
+    exercises.exercise2.exec1()
   }
 }
